@@ -14,6 +14,9 @@ All in a single file with no extra dependencies!
 
 Clone this repository and install Node.js if you haven't already.
 
+## 🚀 Usage
+node index.js [domain]
+
 ---
 
 📚 Requirements
