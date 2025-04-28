@@ -13,3 +13,8 @@ All in a single file with no extra dependencies!
 ## 📥 Installation
 
 Clone this repository and install Node.js if you haven't already.
+
+---
+
+📚 Requirements
+Node.js (v14+ recommended)
